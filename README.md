@@ -10,7 +10,7 @@ wunzip
 ##wcat
 This program simple show the content of file, given as argument, to the stdout.
 you can compile it and test it using below commands.
-'''
+'''ruby
 prompt> git clone https://github.com/remzi-arpacidusseau/ostep-projects
 prompt> cd ostep-projects/initial-utilities/wcat
 prompt> emacs -nw wcat.c 
